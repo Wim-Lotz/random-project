@@ -17,10 +17,13 @@ git tutorial: https://www.sitepoint.com/git-for-beginners/ \
 git flow: https://medium.com/@muneebsajjad/git-flow-explained-quick-and-simple-7a753313572f *Isak please review\
 git ref: https://git-scm.com/docs
 
-# Loopback
+### Loopback
 Loopback4: https://v4.loopback.io \
+or
 Loopback2: https://loopback.io/doc/en/lb2/index.html
 
 
-# ReactJs
+### ReactJs
 https://reactjs.org
+
+### Mongo
