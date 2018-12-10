@@ -14,7 +14,7 @@ https://www.codenewbie.org/blogs/what-is-source-control
 
 #### Git
 git tutorial: https://www.sitepoint.com/git-for-beginners/ \
-git flow: https://medium.com/@muneebsajjad/git-flow-explained-quick-and-simple-7a753313572f *Isak please review\
+git flow: https://www.atlassian.com/git/tutorials/comparing-workflows/gitflow-workflow \
 git ref: https://git-scm.com/docs
 
 ### Loopback
